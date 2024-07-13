@@ -1,4 +1,5 @@
 # Master CLI
+
 Welcome to Master CLI, the ultimate guide by HETFS LTD to empower you with the essential skills of the Command Line Interface (CLI).
 
 ## Description
@@ -6,7 +7,7 @@ Welcome to Master CLI, the ultimate guide by HETFS LTD to empower you with the e
 Master CLI is a comprehensive project designed to teach you the ins and outs of the command line. Whether you're a beginner or looking to enhance your skills, this project will take you on a journey to mastery, unlocking the full potential of the command line for increased productivity and efficiency.
 They are designed to empower you with in-depth knowledge of the command-line interfaces (CLI) for Windows, Mac, and Linux operating systems. This repository is your one-stop resource for mastering the command-line environments of all major platforms.
 
-### Features
+**Features**:
 
 - **In-Depth Tutorials:** Detailed tutorials on popular CLIs, including Bash, PowerShell, and more.
 - **Cross-Platform Compatibility:** Learn about CLIs on Unix-like systems, Windows, and cross-platform tools.
@@ -55,65 +56,45 @@ Simplify your workflow with these versatile and cross-platform Command Line Inte
 12. **Azure CLI:**
     - The Azure Command-Line Interface (CLI) simplifies managing Azure resources and is accessible on Windows, macOS, and Linux.
 
+13. **Vim/Neovim:**
+    - Neovim, also known as Nvim, is a highly extensible text editor well-suited for terminal-based text editing tasks
+
 Elevate your development, system administration, and DevOps tasks with these cross-platform tools—ensuring a seamless experience across diverse operating systems.
 
-## Key Features of Learning Command Line
+<details>
+<summary>Key Features of Learning Command Line</summary>
 
-### 🚀 Efficiency and Speed
-
-Master the quick and precise task execution, significantly boosting your productivity.
-
-### 🤖 Scripting and Automation
-
-Learn to automate repetitive tasks, saving time and effort through powerful scripting capabilities.
-
-### 💡 Resource Efficiency
-
-Discover how the command line can optimize resource usage, making it ideal for various computing environments.
-
-### 🌐 Remote Access
-
-Gain the ability to manage systems remotely, a critical skill for modern IT professionals.
-
-### 🛠 Powerful System Control
-
-Take control of your system configurations with advanced command line commands.
-
-### 🔄 Scripted Reproducibility
-
-Ensure consistency and reproducibility of your tasks by mastering command-line scripting.
-
-### 📂 File Management Mastery
-
-Efficiently manipulate files and directories, making tasks like copying, moving, and deleting a breeze.
-
-### 🔄 Learning Transferability
-
-Acquire a skill set that transcends operating systems, making you proficient in the CLI across various environments.
-
-### 🕵️‍♂️ System Diagnostics and Monitoring
-
-Uncover the secrets of system diagnostics and monitoring, gaining insights into performance and error logs.
-
-### 🚀 Stay Ahead in Development
-
+**🚀 Efficiency and Speed**: Master the quick and precise task execution, significantly boosting your productivity.
+**🤖 Scripting and Automation**: Learn to automate repetitive tasks, saving time and effort through powerful scripting capabilities.
+**💡 Resource Efficiency**: Discover how the command line can optimize resource usage, making it ideal for various computing environments.
+**🌐 Remote Access**: Gain the ability to manage systems remotely, a critical skill for modern IT professionals.
+**🛠 Powerful System Control**: Take control of your system configurations with advanced command line commands.
+**🔄 Scripted Reproducibility**: Ensure consistency and reproducibility of your tasks by mastering command-line scripting.
+**📂 File Management Mastery**: Efficiently manipulate files and directories, making tasks like copying, moving, and deleting a breeze.
+**🔄 Learning Transferability**: Acquire a skill set that transcends operating systems, making you proficient in the CLI across various environments.
+**🕵️‍♂️ System Diagnostics and Monitoring**: Uncover the secrets of system diagnostics and monitoring, gaining insights into performance and error logs.
+**🚀 Stay Ahead in Development**:
 Integrate seamlessly with version control systems like Git, essential for modern software development practices.
+**🔐 Enhanced Security**: Reduce the attack surface by leveraging the minimalistic nature of command line interfaces for specific tasks.
 
-### 🔐 Enhanced Security
+</details>
 
-Reduce the attack surface by leveraging the minimalistic nature of command line interfaces for specific tasks.
+---
 
-## Getting Started
-
+## [Getting Started](/MASTER-CLI%20Journey.md)
+  
 Would you be ready to embark on your journey to command-line mastery? Follow these steps:
 
-1. **Clone the Repository:**
+**Clone the Repository:**
   
   ```bash
   git clone https://github.com/hetfs/master-cli.git
   cd master-cli
   ```
+
+[**Click Here to Start Your `MASTER-CLI` Journey:**](/MASTER-CLI%20Journey.md)
   
+---
 
 **Explore the Wiki:**
 Dive into our [Wiki](https://github.com/hetfs/master-cli/wiki/Master-CLI-Wiki) for comprehensive guides, tutorials, and resources.
@@ -131,7 +112,7 @@ Now, you're all set to become a CLI master!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+**This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details**.
 
 ---
 
@@ -153,7 +134,6 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ---
 
- 
-##  Support *Master CLI* Team  <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>  [HETFS LTD](https://github.com/hetfs) 
+## Support *Master CLI* Team  <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>  [HETFS LTD](https://github.com/hetfs)
 
 ---
