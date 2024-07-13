@@ -402,3 +402,8 @@ In `.html`, `.xhtml`, and `.php` files, tags will be auto-closed. To format them
 ```
 
 Choose the command style that fits your workflow best. The short commands are quick and efficient for frequent tasks, while the long commands offer more clarity for less frequent, specific actions.
+
+---
+**Next >>**
+
+## [What are Neovim Distributions?](/Modern%20Neovim/Neovim%20configuration/EP-0002%20Neovim%20Distros%20Config%20in%20Lua.md)

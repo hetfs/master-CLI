@@ -553,3 +553,8 @@ vim.api.nvim_set_keymap('n', '<leader>rr', ':lua ReloadConfig()<CR>', { noremap 
 These methods help reload your Neovim configuration without restarting, saving time and streamlining your workflow.
 
 To review the default configuration **keymaps** for LazyVim, you can check the `keymaps.lua` file in the LazyVim GitHub repository. This file contains various settings and options that LazyVim uses by default. You can access the default **keymaps** configurations for LazyVim [here on GitHub](https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua).
+
+---
+**Previous <<**
+
+## [Build Your Neovim Configuration in Lua](/Modern%20Neovim/Neovim%20configuration/EP-0001%20Modern%20Neovim%20Installation.md)
