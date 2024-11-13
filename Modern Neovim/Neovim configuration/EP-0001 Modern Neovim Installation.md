@@ -53,15 +53,20 @@ With the pre-built releases of Neovim then do this instead.
 
 **Windows**: With package manager like **Chocolatey** or **Scoop**.
 
+- **Using Winget**:
+  ```cmd
+  winget install Neovim.Neovim
+  ```
+
 - **Using Chocolatey**:
 
-    ```bash
+    ```cmd
      choco install neovim
    ```
 
 - **Using Scoop**:
 
-   ```powershell
+   ```cmd
    scoop bucket add extras
    scoop install vcredist2022
    scoop install neovim
