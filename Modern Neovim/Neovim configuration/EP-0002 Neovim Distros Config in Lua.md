@@ -37,7 +37,7 @@ For those in a hurry, here's a quick summary of what you get once you install La
 
 1. **Initial Configuration directory path**:
    - **Linux/macOS**: `~/.config/nvim/init.lua`
-   - **Windows**: `~/AppData/Local/nvim/init.lua`
+   - **Windows**: ` %USERPROFILE% \AppData\Local\nvim`
   
    - *open Neovim and execute this command to know your configuration directory path*
 
@@ -160,7 +160,7 @@ To create a well-organized and efficient Neovim setup, follow these steps:
    - The default configuration file path for Neovim varies by operating system:
 
    - **Linux/macOS**: `~/.config/nvim/init.lua`
-   - **Windows**: `~/AppData/Local/nvim/init.lua`
+   - **Windows**: ` %USERPROFILE% \AppData\Local\nvim`
 
    To navigate to these directories via the terminal, use the following commands:
 
@@ -172,8 +172,8 @@ To create a well-organized and efficient Neovim setup, follow these steps:
 
    - On **Windows**:
 
-   ```powershell
-   cd "C:\Users\<YourUsername>\AppData\Local\nvim"
+   ```cmd
+    cd %USERPROFILE% \AppData\Local\nvim
    ```
 
    > Note: The directories might be hidden by default. To navigate to them using a graphical user interface (GUI), you will need to enable the display of hidden files in your system settings.
